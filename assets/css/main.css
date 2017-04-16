@@ -142,3 +142,21 @@ header {
     font-size: 25px;
     padding: 1px 1px;
 }
+
+
+/*
+  ========================================
+  Watch Container
+  ========================================
+*/
+
+#player {
+    background: #000;
+    position: relative;
+    top: 50px;
+    height: 480px;
+}
+
+iframe {
+    margin-left: 18.1%;
+}
